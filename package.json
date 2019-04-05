@@ -1,0 +1,24 @@
+{
+  "name": "password-strength-calculator",
+  "version": "1.0.0",
+  "description": "firtly take input \r name first second name\r dob\r mailid",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rithiksingh098/Password-Strength-Calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rithiksingh098/Password-Strength-Calculator/issues"
+  },
+  "homepage": "https://github.com/rithiksingh098/Password-Strength-Calculator#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
