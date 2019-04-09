@@ -10,16 +10,16 @@ To compute the strength of the password, we had 3 components.
 
 • User Interface 
 
-### Input
+# Input
 
 User is supposed to input his First name , Last name and Email id.
 
 Then Set a password.
 
-### Output
+# Output
 
 The system would then tell IF the password is 
 
-# LOW
-# MEDIUM
-# HIGH
+### LOW
+### MEDIUM
+### HIGH
